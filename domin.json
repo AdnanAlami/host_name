@@ -33,6 +33,9 @@
             "animezid": "https://animezid.org",
             "toanime": "https://witanime.one",
             "animehq": "https://animhq.com",
+            "pagesub_cartoonarabic": "/app/cartoonarabic.php?translate_type=sub",
+            "pagedub_cartoonarabic": "/app/cartoonarabic.php?translate_type=dub",
+            "page_chooser": "/app/cartoonarabic.php?translate_type=dub&page=2",
             "anime4up": "https://anime4up.cam"
         }
     ]
