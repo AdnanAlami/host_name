@@ -37,6 +37,7 @@
             "pagesub_cartoonarabic": "/app/cartoonarabic.php?translate_type=sub",
             "pagedub_cartoonarabic": "/app/cartoonarabic.php?translate_type=dub",
             "page_chooser": "/app/cartoonarabic.php?translate_type=dub&page=2",
+            "spacetoongo": "https://sp.ufogrendizer.tv",
             "anime4up": "https://anime4up.cam"
         }
     ]
